@@ -3,3 +3,4 @@ LTSpice/*.db
 LTSpice/*.op.raw
 LTSpice/*.log
 LTSpice/*.net
+LTSpice/*.plt
